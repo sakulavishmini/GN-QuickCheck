@@ -1,4 +1,4 @@
-# GN QuickCheck
+# GN QuickCheck - UX Design & Prototyping
 
 **GN QuickCheck** is a digital platform designed to streamline access to Grama Niladhari (GN) services in Sri Lanka. This group project aims to reduce stress, uncertainty, and inefficiency for citizens seeking essential documents like NICs, certificates, verifications, and permits.  
 
@@ -28,34 +28,37 @@ GN QuickCheck provides a **single, user-friendly digital platform** where citize
 
 ---
 
-## Project Links
-
-- **Figma Prototype – Mobile:** [View Prototype](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
-- **Figma Prototype – Web:** [View Prototype](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
-
----
-
-## Screenshots / Images
-
-<!-- Add your images below by placing them in the repository and linking them here -->
-![GN QuickCheck Mobile](images/gn_quickcheck_mobile.png)
-![GN QuickCheck Web](images/gn_quickcheck_web.png)
-
----
-
-## Team Project
-
-This project was developed as a **group assignment** for the course EEI4361. Team members collaborated using **Figma** for design, prototyping, and visualization of the platform.  
-
----
-
 ## Features
 
 - Real-time GN officer availability check.  
 - Step-by-step guidance for document preparation.  
 - Centralized access to sample forms and instructions.  
 - Reduces unnecessary trips and waiting time.  
-- Enhances citizen experience and digital well-being.  
+- Enhances citizen experience and digital well-being.
+  
+---
+
+## Project Links
+
+- **Figma Prototype – Mobile:** [GN QuickCheck](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
+- **Figma Prototype – Web:** [GN QuickCheck](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
+
+---
+
+## Screenshots / Images
+
+<!-- Add your images below by placing them in the repository and linking them here -->
+![GN QuickCheck Mobile](/Images/Mobile_1.png)
+![GN QuickCheck Mobile](/Images/Mobile_2.png)
+![GN QuickCheck Mobile](/Images/Mobile_3.png)
+![GN QuickCheck Web](/Images/Web_1.png)
+![GN QuickCheck Web](/Images/Web_2.png)
+
+---
+
+## Team Project
+
+This project was developed as a **group project** for the University. Team members collaborated using **Figma** for design, prototyping, and visualization of the platform.    
 
 ---
 
