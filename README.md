@@ -63,9 +63,15 @@ Future Enhancements
 
 ![GN QuickCheck Mobile](/Images/Mobile_2.png)
 
+<br></br>
+
 ![GN QuickCheck Mobile](/Images/Mobile_3.png)
 
+<br></br>
+
 ![GN QuickCheck Web](/Images/Web_1.png)
+
+<br></br>
 
 ![GN QuickCheck Web](/Images/Web_2.png)
 
