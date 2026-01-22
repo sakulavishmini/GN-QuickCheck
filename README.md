@@ -45,6 +45,15 @@ GN QuickCheck provides a **single, user-friendly digital platform** where citize
 
 ---
 
+Future Enhancements
+
+- Accessibility features (large fonts, icons, voice assistance)
+- Appointment scheduling
+- Real-time service updates
+- Integration with national e-governance systems
+
+---
+
 ## Screenshots / Images
 
 <!-- Add your images below by placing them in the repository and linking them here -->
@@ -59,6 +68,16 @@ GN QuickCheck provides a **single, user-friendly digital platform** where citize
 ## Team Project
 
 This project was developed as a **group project** for the University. Team members collaborated using **Figma** for design, prototyping, and visualization of the platform.    
+
+---
+
+## Contributors
+
+S.D.D.N. Sudasingha  -  https://github.com/D200322
+H.S.V. Jayarathne    -  https://github.com/sakulavishmini
+A.P.S.S. Fernando    -  https://github.com/sanduf01
+G.D.L. Madhumini     -  https://github.com/corelina98-bot
+H.M.H.M. Malshini    -  https://github.com/Hari-Mal
 
 ---
 
