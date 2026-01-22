@@ -73,11 +73,11 @@ This project was developed as a **group project** for the University. Team membe
 
 ## Contributors
 
-S.D.D.N. Sudasingha  -  https://github.com/D200322
-H.S.V. Jayarathne    -  https://github.com/sakulavishmini
-A.P.S.S. Fernando    -  https://github.com/sanduf01
-G.D.L. Madhumini     -  https://github.com/corelina98-bot
-H.M.H.M. Malshini    -  https://github.com/Hari-Mal
+- S.D.D.N. Sudasingha  -  https://github.com/D200322
+- H.S.V. Jayarathne    -  https://github.com/sakulavishmini
+- A.P.S.S. Fernando    -  https://github.com/sanduf01
+- G.D.L. Madhumini     -  https://github.com/corelina98-bot
+- H.M.H.M. Malshini    -  https://github.com/Hari-Mal
 
 ---
 
